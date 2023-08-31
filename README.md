@@ -1,1 +1,2 @@
 # DynamicsProject
+This project was for my Analytical Mechanics: Dynamics class. We were tasked with exploring a dynamic system that we didn't cover in depth in class. I choose double and triple pendulums for my topic. To preface, the mathmatical processes used in the code, while I did attempt to derive myself, were found from external sources. However, the implementation of the graphics, storage of data, and UI were designed by me. Double and Triple Pendulums are chaotic systems and illustrate a concept known as the butterfly effect.
