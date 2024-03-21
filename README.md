@@ -15,7 +15,7 @@ Depending on which number the user chooses, the user may be prompted for a numbe
 
 UI: 
 
-The buttons allow the user to control what type of pendulum is active, the color, and the number of pendulums viewable. 
+A UI is only present in the 5th option. The buttons allow the user to control what type of pendulum is active, the color, and the number of pendulums being displayed at a time. 
 
 The Future?: 
 
