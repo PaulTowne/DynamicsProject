@@ -1,5 +1,5 @@
 # DynamicsProject
-This project was for my Analytical Mechanics: Dynamics class. We were tasked with exploring a dynamic system that we didn't cover in depth in class. I choose double and triple pendulums for my topic as they are a create example of a chaotic system.
+This project was for my Analytical Mechanics: Dynamics class. We were tasked with exploring a dynamic system that we didn't cover in depth in class. I choose pendulums for my topic as they are a create example of a chaotic system. A chaotic system is one in which the initial conditions have a drastic and unpredictable affect on the result. In this example, small changes in the initial angles of each pendulum arm will result in a very visual difference in the position of the pendulum at a later time. This program models multiple pendulums at once and offsets each pendulum. 
 
 How to Run:
 
